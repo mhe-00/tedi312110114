@@ -8,3 +8,4 @@
 
 ### biodata
 ![gambar](screenshot2/biodata1.png)
+![gambar](screenshot2/biodata2.png)
